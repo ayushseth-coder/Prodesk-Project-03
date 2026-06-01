@@ -99,7 +99,7 @@ using **Vanilla JavaScript and native browser APIs**.
 - GitHub: https://github.com/ayushseth-coder  
 - LinkedIn: https://linkedin.com/in/ayush-seth-b4265828a  
 - Live Demo: https://prodesk-project-03.vercel.app
-- QA Video: (add your Loom video link here)  
+- QA Video: https://www.loom.com/share/bcd36905c75b4c7392b9d6b1d3a2bbd0 
 - Web Screenshot:  
    [web screenshot](image.png)
 

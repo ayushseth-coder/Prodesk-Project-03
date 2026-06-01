@@ -98,7 +98,7 @@ using **Vanilla JavaScript and native browser APIs**.
 
 - GitHub: https://github.com/ayushseth-coder  
 - LinkedIn: https://linkedin.com/in/ayush-seth-b4265828a  
-- Live Demo: (add your deployed link here)  
+- Live Demo: https://prodesk-project-03.vercel.app
 - QA Video: (add your Loom video link here)  
 - Web Screenshot:  
    [web screenshot](image.png)
